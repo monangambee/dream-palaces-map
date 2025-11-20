@@ -1,6 +1,6 @@
 {
   "functions": {
-    "airtablesync/airtablesync.py": {
+    "api/airtablesync.py": {
       "runtime": "@vercel/python@3.9.0"
     }
   },
