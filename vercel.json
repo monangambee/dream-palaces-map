@@ -1,7 +1,7 @@
 {
   "functions": {
     "airtablesync/airtablesync.py": {
-      "runtime": "@vercel/python"
+      "runtime": "@vercel/python@3.9.0"
     }
   },
   "headers": [
